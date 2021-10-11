@@ -1,0 +1,47 @@
+/* body{
+  width: 1440px;
+  height: 2400px;
+}
+nav {
+  position: absolute;
+width: 1440px;
+height: 120px;
+left: 0px;
+top: 0px;
+}
+.logo {
+  width: 211px;
+height: 54px;
+left: 141px;
+top: 32px;
+}
+.btn {
+  border-radius: 5px;
+}
+*/
+.berita {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav-item {
+  font-weight: bold;
+  font-size: 22px;
+
+}
+body{
+  background-color: #E9F3FF;
+}
+
+footer {
+
+  /* border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px; */
+
+  background: linear-gradient(#000aff, #0075ff);
+  color: white;
+}
+
+.copyright {
+  font-weight: bold;
+}
