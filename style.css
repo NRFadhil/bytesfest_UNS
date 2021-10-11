@@ -45,3 +45,7 @@ footer {
 .copyright {
   font-weight: bold;
 }
+
+section {
+  padding-top: 5rem;
+}

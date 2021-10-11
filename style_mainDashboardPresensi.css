@@ -1,0 +1,88 @@
+footer {
+  background: linear-gradient(#000aff, #0075ff);
+  color: white;
+}
+
+
+.dropdown {
+  top: 400px;
+}
+
+.sideNav a {
+  color: white;
+}
+
+.sideNav {
+  background: linear-gradient(#000aff, #ffffff);
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 15px rgba(0, 0, 0, 0.25);
+    color: white;
+    font-weight: bold;
+}
+
+.btn_db {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+  color: #FFA800;
+}
+
+.day {
+  font-weight: bold;
+  color: #BFBFBF;
+  font-size: 16px;
+}
+
+.tgl {
+  font-size: 25px;
+  font-weight: bold;
+  color: #FFA800;
+}
+
+.paralax {
+  /* The image used */
+  background-color: #0075FF;
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.paralax_absensi {
+  background-color: #0075FF;
+
+  /* Set a specific height */
+  min-height: 1050px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.paralax_riwayat {
+  background-color: #0075FF;
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.card {
+  background-color: white;
+
+}
