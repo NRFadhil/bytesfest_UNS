@@ -17,7 +17,6 @@ footer {
     color: white;
     font-weight: bold;
 
-
 }
 
 .btn_db {
@@ -39,26 +38,11 @@ footer {
   color: #FFA800;
 }
 
-.paralax {
-  /* The image used */
-  background-color: #0075FF;
-
-  /* Set a specific height */
-  min-height: 400px;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-radius: 10px;
-}
-
-.paralax_absensi {
+.paralax_calender {
   background-color: #E9F3FF;
 
   /* Set a specific height */
-  min-height: 820px;
+  min-height: 590px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -68,11 +52,11 @@ footer {
   border-radius: 10px;
 }
 
-.paralax_riwayat {
-  background-color: #0075FF;
+.paralax_right {
+  background-color: #3391FF;
 
   /* Set a specific height */
-  min-height: 350px;
+  min-height: 590px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -81,42 +65,3 @@ footer {
   background-size: cover;
   border-radius: 10px;
 }
-
-.card {
-  background-color: white;
-  border-radius: 10px;
-}
-
-.time {
-  font-size: 10px;
-  color: #8D8D8D;
-  font-weight: bold;
-}
-
-.comment {
-  font-size: 12px;
-  font-weight: bold;
-  color: #8D8D8D;
-}
-
-.click {
-  font-size: 14px;
-  font-weight: bold;
-  color: #fff;
-}
-
-.presensiDot {
-  color: green;
-  font-weight: bold;
-}
-
-.presensiAktif {
-  font-weight: bold;
-  font-size: 18px;
-}
-
-h3 {
-  font-weight: bold;
-}
-
- 
