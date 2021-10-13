@@ -1,0 +1,62 @@
+* {
+  font-family: Poppins, sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+  background-color: #E9F3FF;
+  font-weight: bold;
+  box-shadow: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.card a {
+  font-size: 28px;
+
+}
+
+.paralax_pengumuman {
+  background-color: #E9F3FF;
+
+  /* Set a specific height */
+  min-height: 300px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.cardPengumuman {
+  background-color: white;
+  border-radius: 15px;
+
+}
+h3 {
+  font-size: 30px;
+
+}
+p {
+  font-size: 20px;
+}
+
+footer {
+  background: linear-gradient(#000aff, #0075ff);
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.nav-item {
+  font-weight: bold;
+  font-size: 22px;
+
+}

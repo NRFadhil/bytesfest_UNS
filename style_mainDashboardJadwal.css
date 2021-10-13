@@ -50,13 +50,14 @@ footer {
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
+
 }
 
 .paralax_right {
-  background-color: #3391FF;
+  background-color: #E9F3FF;
 
   /* Set a specific height */
-  min-height: 590px;
+  min-height: 300px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
